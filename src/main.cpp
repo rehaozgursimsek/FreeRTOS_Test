@@ -121,7 +121,7 @@ void setup() {
     1000,
     NULL,
     2,           // Priority: High
-    NULL[]
+    NULL
   );
 }
 
